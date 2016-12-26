@@ -4,8 +4,6 @@ Adds a Phone Number field with validation for Advanced Custom Fields plugin.
 ### Description ###
 Now you can create a phone field and validate it using Advanced Custom Fields: Phone Number Field.
 
-![acf phone field](https://raw.githubusercontent.com/jainnidhi/gf-shortcode/master/screenshot-1.png)
-
 ### Installation ###
 
 1. Install Advanced Custom Fields: Phone Number Field either via the WordPress plugin directory or by uploading the files to your server at wp-content/plugins.
