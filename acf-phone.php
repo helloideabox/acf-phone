@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Advanced Custom Fields: Phone Number Field
+Plugin Name: Phone Number Field for Advanced Custom Fields
 Plugin URI: http://ideaboxcreations.com/
 Description: Adds a Phone Number field with validation for Advanced Custom Fields plugin.
 Version: 1.0.0
-Author: IdeaBox Creations, Nidhi Jain
+Author: IdeaBox Creations
 Author URI: http://ideaboxcreations.com/
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

@@ -1,4 +1,4 @@
-=== Advanced Custom Fields: Phone Number Field ===
+=== Phone Number Field for Advanced Custom Fields ===
 Contributors: ideaboxcreations, jainnidhi
 Tags: acf, advanced custom field, phone number, phone field
 Requires at least: 3.6
@@ -12,23 +12,23 @@ Adds a Phone Number field with validation for Advanced Custom Fields plugin.
 
 == Description ==
 
-Now you can create a phone field and validate it using Advanced Custom Fields: Phone Number Field.
+Now you can create a phone field and validate it using Phone Number Field for Advanced Custom Fields.
 
 * Compatibility *
 This add-on will work with: Advanced Custom Fields version 5
 
 == Installation ==
 
-1. Install Advanced Custom Fields: Phone Number Field either via the WordPress plugin directory or by uploading the files to your server at wp-content/plugins.
+1. Install Phone Number Field for Advanced Custom Fields either via the WordPress plugin directory or by uploading the files to your server at wp-content/plugins.
 
-2. Activate Advanced Custom Fields: Phone Number Field.
+2. Activate Phone Number Field for Advanced Custom Fields.
 
 == Frequently Asked Questions ==
-*   What's the requirement for using Advanced Custom Fields: Phone Number Field? - You need Advanced Custom Fields version 5 or higher plugin installed and activated.
+*   What's the requirement for using Phone Number Field for Advanced Custom Fields? - You need Advanced Custom Fields version 5 or higher plugin installed and activated.
 
 == Screenshots ==
 
-1. Advanced Custom Fields: Phone Number Field
+1. Phone Number Field for Advanced Custom Fields
 
 == Changelog ==
 
